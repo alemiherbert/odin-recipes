@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    line-height: 1.5;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+main{
+    max-width: 992px;
+    width: 95%;
+    margin: auto;
+}
+h1{
+    line-height: normal;
+}
+li a{
+    text-decoration: 1px dotted underline;
+}
+hr{
+    border: none;
+    border-bottom: 1px dotted #aaa;
+}
